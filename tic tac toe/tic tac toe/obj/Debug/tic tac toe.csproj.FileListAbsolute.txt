@@ -1,0 +1,7 @@
+C:\Users\young\source\repos\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe.config
+C:\Users\young\source\repos\tic tac toe\tic tac toe\bin\Debug\tic tac toe.exe
+C:\Users\young\source\repos\tic tac toe\tic tac toe\bin\Debug\tic tac toe.pdb
+C:\Users\young\source\repos\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.AssemblyReference.cache
+C:\Users\young\source\repos\tic tac toe\tic tac toe\obj\Debug\tic tac toe.csproj.CoreCompileInputs.cache
+C:\Users\young\source\repos\tic tac toe\tic tac toe\obj\Debug\tic tac toe.exe
+C:\Users\young\source\repos\tic tac toe\tic tac toe\obj\Debug\tic tac toe.pdb
